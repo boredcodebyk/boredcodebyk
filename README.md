@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [mintcalc](https://github.com/boredcodebyk/mintcalc/), [mint_task](https://github.com/boredcodebyk/mint_task) and [mint_files](https://github.com/boredcodebyk/mint_files)<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact: I'm also an [digital artist](https://www.instagram.com/illusbyk/)
+🔭 I’m currently working on [mintcalc](https://github.com/boredcodebyk/mintcalc/), [minttask](https://github.com/boredcodebyk/minttask) and [mint_files](https://github.com/boredcodebyk/mint_files)<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact: I'm also an [digital artist](https://www.instagram.com/illusbyk/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/illusbyk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/illusbyk) 
